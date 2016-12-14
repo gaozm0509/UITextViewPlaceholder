@@ -21,7 +21,6 @@ Pod::Spec.new do |s|
 
 
   s.source_files  = "Project/UITextViewPlaceholderExample/Classes/*.{h,m}"
-  s.exclude_files = "Classes/Exclude"
 
   s.platform     = :ios,'5.0'
 
