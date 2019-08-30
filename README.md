@@ -5,4 +5,6 @@
    
       pod 'UITextViewPlaceholder'
     
-- 然后 执行”pod install“
+- 然后 执行
+
+      pod install
